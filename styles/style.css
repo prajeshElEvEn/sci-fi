@@ -152,7 +152,7 @@ html, body {
   position: relative;
   height: 100vh;
   width: 100vw;
-  background: red;
+  background: #f1f1f1;
 }
 .main .page2 .left-text {
   position: absolute;
@@ -197,7 +197,7 @@ html, body {
   position: relative;
   height: 100vh;
   width: 100vw;
-  background: green;
+  background: #f1f1f1;
 }
 .main .page3 .left-text {
   position: absolute;
